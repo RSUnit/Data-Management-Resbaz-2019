@@ -27,7 +27,14 @@ Go to **Works** and use **+ Add works** to add a record manually for the example
 
 ## Before you leave...
 
-Make sure you delete the example data from your Figshare account
+Delete the example data record from your Figshare account.
 
-Make sure you delete the entry in your ORCID profile
+Delete the data record in your ORCID profile.
 
+## Some additional links
+
+[Library Data Management Planning tool](https://www.otago.ac.nz/library/dmp/index.html)
+
+[List of recommended data repositories by Scientific Data](https://www.nature.com/sdata/policies/repositories) 
+
+[Search for data repositories using re#data.org](https://www.re3data.org/) 

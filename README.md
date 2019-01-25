@@ -11,7 +11,7 @@ Resources for the Data Management Workshop Research Bazaar 2019
 
 ## Activity 2 Uploading data to a repository
 
-Go to Figshare and sign in or create an account 
+Go to Figshare and sign in or create a new personal account: 
 
 [Figshare sign in](https://figshare.com/account/login) *OR* [Figshare sign up](https://figshare.com/account/register) 
 
@@ -19,4 +19,15 @@ Select **upload** and **Create a new item** and create a **Metadata record only*
 
 ## Activity 3 Adding data record to ORCID
 
-Go to ORCID 
+Go to ORCID and sign in or create a new personal account:
+
+[ORCID sign in or register](https://orcid.org/signin) 
+
+Go to **Works** and use **+ Add works** to add a record manually for the example dataset.  
+
+## Before you leave...
+
+Make sure you delete the example data from your Figshare account
+
+Make sure you delete the entry in your ORCID profile
+

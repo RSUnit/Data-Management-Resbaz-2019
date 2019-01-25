@@ -17,7 +17,7 @@ Go to Figshare and sign in or create a new personal account:
 
 Select **upload** and **Create a new item** and create a **Metadata record only** for the example dataset.  Don't publish. 
 
-## Activity 3 Adding data record to ORCID
+## Activity 3 Adding a data record to ORCID
 
 Go to ORCID and sign in or create a new personal account:
 

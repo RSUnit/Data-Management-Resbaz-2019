@@ -13,7 +13,7 @@ Activities for the Data Management Workshop Research Bazaar 2019
 
 Go to Figshare and sign in or create a new personal account: 
 
-[Figshare sign in](https://figshare.com/account/login) *OR* [Figshare sign up](https://figshare.com/account/register) 
+[Figshare sign in](https://figshare.com/account/login) *OR*  [Figshare sign up](https://figshare.com/account/register) 
 
 Select **upload** and **Create a new item** and create a **Metadata record only** for the example dataset.  Don't publish. 
 
@@ -37,4 +37,4 @@ Delete the data record in your ORCID profile.
 
 [List of recommended data repositories by Scientific Data](https://www.nature.com/sdata/policies/repositories) 
 
-[Search for data repositories using re#data.org](https://www.re3data.org/) 
+[Search for data repositories using re3data.org](https://www.re3data.org/) 

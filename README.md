@@ -1,5 +1,5 @@
 # Data-Management-Resbaz-2019
-Resources for the Data Management Workshop Research Bazaar 2019 
+Activities for the Data Management Workshop Research Bazaar 2019 
 
 ## Activity 1 Describing data for preservation and reuse
 
